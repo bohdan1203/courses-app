@@ -1,0 +1,15 @@
+.header {
+  padding: 1rem 2rem;
+  border: 2px solid hotpink;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.user {
+  width: 10rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

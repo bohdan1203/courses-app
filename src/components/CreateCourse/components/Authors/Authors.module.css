@@ -1,0 +1,16 @@
+.authors {
+  display: flex;
+  flex-direction: column;
+  padding: 0 2rem;
+}
+
+.authors h3 {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.5rem;
+  padding: 0 6rem;
+}

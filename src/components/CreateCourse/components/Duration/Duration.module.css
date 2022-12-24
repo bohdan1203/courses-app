@@ -1,0 +1,22 @@
+.duration {
+  display: flex;
+  flex-direction: column;
+  padding: 0 2rem;
+}
+
+.duration input {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+.duraion h3 {
+  text-align: center;
+}
+
+.formatted-duration {
+  font-size: 1.2rem;
+}
+
+.formatted-duration b {
+  font-size: 1.6rem;
+}

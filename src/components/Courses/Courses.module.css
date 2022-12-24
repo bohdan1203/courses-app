@@ -1,0 +1,10 @@
+.courses {
+  padding: 2rem;
+  border: 2px solid navy;
+}
+
+.courses-header {
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: space-between;
+}

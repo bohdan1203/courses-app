@@ -1,0 +1,6 @@
+.button {
+  border-radius: 0px;
+  background-color: transparent;
+  padding: 0.25rem 0.66rem;
+  max-width: fit-content;
+}
